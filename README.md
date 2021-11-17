@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piumal96
 - 👀 I’m interested in Android & ios
-- 🌱 I’m currently learning Java & JS
+- 🌱 I’m currently learning Java & JS ,Dart,Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
