@@ -49,7 +49,7 @@ Programmer | Content Creator | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=piumal96.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=piumal96&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/piumal96/github-readme-activity-graph)
+[![RMJP Kumara github activity graph](https://activity-graph.herokuapp.com/graph?username=piumal96&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/piumal96/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,10 +59,8 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=piumal96&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev 
-[youtube]: https://youtube.com/TechHelpBangladesh
+[facebook]: https://facebook.com/piumal96
+[twitter]: https://twitter.com/piumalkumara 
 [instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[linkedin]: https://linkedin.com/in/piumalkumara
+[telegram]: https://t.me/piumal96
