@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm RMJP Kumara</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer 
+Mobile and web application developer
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **Android and ios Development**
 
@@ -24,7 +24,7 @@ Programmer
 [<img align="left" alt="RMJP Kumara | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RMJP Kumara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RMJP Kumara | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RMJP Kumara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RMJP Kumara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
