@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm RMJP Kumara</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer 
 
 ?></h3>
 
